@@ -1,0 +1,22 @@
+*, *::before, *::after { 
+	box-sizing: border-box;
+}
+html {
+	-moz-text-size-adjust: 100%;
+	-webkit-text-size-adjust: 100%;
+	text-size-adjust: 100%;
+}
+body {
+	margin: 30px;
+	font-family: sans-serif;
+}
+img {
+	max-width: 100%;
+	vertical-align: bottom;
+}
+.logo-wrapper {
+	background: #d7e1ff;
+}
+.gallery {
+	border: 8px solid orange;
+}
